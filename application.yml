@@ -4,7 +4,9 @@ spring:
     name: config-client
 
 
-
+foo : hello world
+democonfigclient:
+  message: hi
 server:
   port: 8881
 
